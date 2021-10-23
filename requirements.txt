@@ -1,0 +1,9 @@
+torch >= 1.10.0
+torchvision
+torchaudio
+numpy
+pandas
+transformers
+sentence-transformers
+pyopenxl
+nltk
